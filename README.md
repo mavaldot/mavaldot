@@ -1,12 +1,6 @@
 ### Hello! 👋
 
-
-
-![Alt Text](https://64.media.tumblr.com/eacd726300f0dae07af364e6418b3d66/23977ae68dbb87f7-8f/s250x400/bf7944e331a6eba28e2d4fcefbaea9106ee7f7a3.gifv)
-
-
-
-![Alt Text](http://graphics8.nytimes.com/images/2013/05/21/technology/21-baby/21-baby-custom1.gif)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavaldot)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mavaldot/mavaldot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
